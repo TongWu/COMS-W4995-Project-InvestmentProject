@@ -1,0 +1,2 @@
+Mean Variance Optimization: 
+Use {Random Forest}, sharpe ratio = 0.751043926215062, expected return = {0.16760777642066926}, weight: OrderedDict([('AAPL', 0.05822), ('AMZN', 0.05745), ('BSX', 0.0578), ('CI', 0.05798), ('COST', 0.05669), ('CVX', 0.05788), ('GOOGL', 0.05759), ('GS', 0.05803), ('HSBC', 0.05704), ('LMT', 0.0571), ('MCD', 0.05674), ('MRK', 0.05669), ('MSFT', 0.05853), ('PFE', 0.0571), ('QQQ', 0.05733), ('TSLA', 0.05783), ('cash', 0.08)])
